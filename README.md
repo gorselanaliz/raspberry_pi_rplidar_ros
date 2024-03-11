@@ -12,9 +12,7 @@ These instructions will show you how to run and visualize RPLIDAR data on your R
 * RPLIDAR Data Visualization on Raspberry Pi in ROS Noetic
 <br/>
 
-![]()
-<br/>
-
+<img src="https://github.com/gorselanaliz/raspberry_pi_rplidar_ros/blob/main/kit.jpg" width="750">
 
 ## Prerequisites
 
