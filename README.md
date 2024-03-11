@@ -75,8 +75,6 @@ $ roslaunch rplidar_ros view_rplidar.launch
 <!-- CONTACT -->
 ## Contact
 
-Project Link - [Udemy](https://www.udemy.com/course/yolov8-bilgisayarl-goru-ile-trafik-analizi-3-ozgun-proje)
-
 Discord - [Discord](https://discord.gg/AEvZdFs5rF)
 
 Instagram - [Instagram](https://www.instagram.com/gorselanaliz_/)
